@@ -1,5 +1,7 @@
 # csi_camera
 
+dependencies : opencv, gstreamer, make, g++
+
 # Linux command
 
 $ git clone https://github.com/2sungryul/csi_camera.git
