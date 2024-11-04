@@ -8,6 +8,8 @@ $ git clone https://github.com/2sungryul/csi_camera.git
 
 $ cd csi_camera
 
+modify the destination ip address into ip address of your PC.
+
 $ make 
 
 $ ./camera
